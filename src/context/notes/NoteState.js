@@ -3,6 +3,7 @@ import { useState } from "react";
 
 
 const NoteState = (props) => {
+  // const host = "https://inotebook-backend-55f7.onrender.com";
   const host = "http://localhost:4000";
   // const authtoken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjQ1YTNjYmQxYWRkMGQ4NGQzYmM3YmNmIn0sImlhdCI6MTY4MzYzNTM4OX0.2wwSWP8Wra4s0vI4K2HfsjZGfk8TK8QlQtBI8FZDtFc";
   const notesInitial = [];
