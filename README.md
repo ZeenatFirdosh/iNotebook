@@ -14,3 +14,4 @@ Developed the back-end of the iNotebook app using Node.js and Express.js, buildi
 Implemented user authentication and authorization using JSON Web Tokens (JWT) to secure user data and prevent unauthorized access.</br>
 Integrated MongoDB as the database for storing and managing user-generated notes, leveraging Mongoose for object modeling and interaction with the database.</br>
 Implemented CRUD (Create, Read, Update, Delete) operations for notes, allowing users to create, view, edit, and delete their notes within the iNotebook app.</br>
+Developed a robust error handling mechanism, including proper validation and error messages, to ensure smooth user experience and prevent data loss.</br>
