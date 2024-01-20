@@ -7,7 +7,7 @@ const NoteState = (props) => {
   // const host = "http://localhost:4000";
   // const authtoken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjQ1YTNjYmQxYWRkMGQ4NGQzYmM3YmNmIn0sImlhdCI6MTY4MzYzNTM4OX0.2wwSWP8Wra4s0vI4K2HfsjZGfk8TK8QlQtBI8FZDtFc";
   // const host = "https://inotebook-backend-a8z2.onrender.com";
-  const host = "https://precious-lime-wetsuit.cyclic.app/";
+  const host = "https://inotebook-backend-4ocr.onrender.com";
   
   const notesInitial = [];
   const [notes, setNotes] = useState(notesInitial);
